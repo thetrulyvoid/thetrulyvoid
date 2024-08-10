@@ -33,11 +33,12 @@
 <h2 align="left">Contact me</h2>
 
 ###
+
 <div align="left">
   <img src="https://static.vecteezy.com/system/resources/previews/006/892/625/original/discord-logo-icon-editorial-free-vector.jpg" height="40" alt="discord logo"  />
   <img width="12" />
-</div>
   <p align="left">thevoidcruz</p>
+</div>
 
   
   
