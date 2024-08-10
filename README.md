@@ -34,11 +34,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://static.vecteezy.com/system/resources/previews/006/892/625/original/discord-logo-icon-editorial-free-vector.jpg" height="40" alt="discord logo"  />
-  <img width="12" />
-  <p align="left">thevoidcruz</p>
+<div align="left" style="display: flex; align-items: center;">
+  <img src="https://static.vecteezy.com/system/resources/previews/006/892/625/original/discord-logo-icon-editorial-free-vector.jpg" height="40" alt="discord logo" />
+  <p style="margin-left: 8px; font-size: 20px;">**thevoidcruz**</p>
 </div>
-
-  
-  
