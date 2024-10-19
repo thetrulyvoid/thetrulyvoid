@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JavaScript<br>🎯 Goals: Be a Senior Developer<br>🎲 Fun fact: I Love Studio Ghibli<br>📫 Contact me: thevoidcruz (on discord) | arthurmss2006@gmail.com</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JavaScript e Python<br>🎯 Goals: Be a Senior Developer<br>🎲 Fun fact: I Love Studio Ghibli<br>📫 Contact me: thevoidcruz (on discord) | arthurmss2006@gmail.com</p>
 
 ###
 
@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
