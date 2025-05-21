@@ -23,11 +23,10 @@ Here are the technologies I work with:
 - ✉️ Email: [arthurmss2006@gmail.com](mailto:arthurmss2006@gmail.com)
 - 💬 Discord: `thetrulyvoid`
 - 📷 Instagram: [@mxrtins.png](https://www.instagram.com/mxrtins.png)
+- 💼 LinkedIn: *[Arthur Martins](https://www.linkedin.com/in/arthur-martins-71a608230/)*
 
-## 🚀 Currently
+## 📊 GitHub Stats
 
-- Improving my full-stack development skills
-- Building exciting projects
-- Learning new technologies every day
+![thetrulyvoid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thetrulyvoid&show_icons=true&theme=dracula&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thetrulyvoid&layout=compact&theme=dracula&hide_border=true)
