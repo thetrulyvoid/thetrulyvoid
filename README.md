@@ -22,9 +22,9 @@
 
 - 🎯 **Director of Business** at Orc'estra Gamificação, the largest gamification-focused junior enterprise in Brazil (I started as an assistant and rose to director)
 - 💻 **Developer** at **Game4U**, working with JavaScript, Nest.js, and React
-- 💸 **Co-founder and technical lead** of **MoneyMind**, a fintech in the making
+- 💸 **Co-founder and technical lead** of **VoloWise**, a startup in the making
 - 🤝 Deeply involved in the Brazilian **Junior Enterprise Movement (MEJ)**
-- 🎮 Outside of code: **tabletop RPGs**, **chess**, and **motorsports**
+- 🎮 Outside of code: **tabletop RPGs**, **chess**, and **videogame**
 
 ---
 
@@ -48,7 +48,7 @@
 
 | Project | What it is |
 | :-- | :-- |
-| 💸 **MoneyMind** | A fintech I'm building as co-founder and technical lead |
+| 💸 **VoloWise** | A startup I'm building as co-founder and technical lead |
 | 🎼 **Orc'estra Gamificação** | Leading the business area of Brazil's largest gamification junior enterprise |
 | 🕹️ **Game4U** | Building gamified products with React and Nest.js |
 
