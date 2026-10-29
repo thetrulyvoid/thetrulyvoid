@@ -9,7 +9,7 @@
 <p>
 <img src="https://img.shields.io/badge/Brasília-Brazil-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 <img src="https://img.shields.io/badge/Software_Engineering-UnB-2563eb?style=for-the-badge" alt="UnB">
-<img src="https://img.shields.io/badge/Building-MoneyMind-10b981?style=for-the-badge" alt="Status">
+<img src="https://img.shields.io/badge/Building-VoloWise-10b981?style=for-the-badge" alt="Status">
 </p>
 
 </div>
