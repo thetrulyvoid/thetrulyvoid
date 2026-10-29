@@ -60,16 +60,14 @@
 > Gamification isn't about points, it's **well-designed motivation**.
 
 ---
-
-## 📊 GitHub stats
-
+ 
+## 📊 GitHub
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thetrulyvoid&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetrulyvoid&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
-
+<a href="https://github.com/thetrulyvoid?tab=followers"><img src="https://img.shields.io/github/followers/thetrulyvoid?style=for-the-badge&logo=github&color=7c3aed" alt="Followers"></a>
+<a href="https://github.com/thetrulyvoid?tab=repositories"><img src="https://img.shields.io/badge/Repositories-explore-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
+ 
 </div>
-
 ---
 
 ## 📫 Let's talk
